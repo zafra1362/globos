@@ -43,7 +43,7 @@ public class Pantalla2 extends BaseScreen{
         spriteBatch.begin();
         spriteBatch.draw(background, 0, 0, 640, 480);
         bitmapFont.draw(spriteBatch,"Puntuacion: ",30,450);
-        ArrayList<>
+        ArrayList<>;
         spriteBatch.draw(ballonRed, xr, yr);
         spriteBatch.draw(ballonGreen, xv, yv);
         spriteBatch.draw(ballonBlue, xa, ya);
